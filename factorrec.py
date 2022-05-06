@@ -6,9 +6,6 @@ from Bio.Seq import translate
 import re
 import sys
 
-
-  
-
 #defining recursive factorial 
 
 
